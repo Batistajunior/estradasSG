@@ -5,7 +5,7 @@
 
 O projeto "Estradas Região São Gonçalo" se concentrou na análise e previsão da qualidade das estradas na região de São Gonçalo, Rio de Janeiro, Brasil. Este repositório contém informações detalhadas sobre o projeto, seus objetivos e resultados.
 
-![Estrada](link_para_imagem.jpg)
+Projeto todo feito no Google Colab
 
 ## Objetivos
 
@@ -47,7 +47,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+Este projeto é licenciado sob a [Licença MIT](Antonio Carlos).
 
----
-**Nota:** Este é apenas um exemplo de arquivo README.md. Personalize-o conforme necessário para o seu projeto.
+
