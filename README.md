@@ -47,6 +47,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](Antonio Carlos).
+Este projeto foi desenvolvido por Antonio Carlos.
 
 
